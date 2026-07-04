@@ -255,5 +255,7 @@ Note: Use Python version: 3.8.5
 # Collaborators
   | |  |  |  |  |
   | ------------- | ------------- | ------------- | ------------- | ------------- |
-  | SACHIN REDDY| [GitHub](https://github.com/reddysachin532) | Email | [LinkedIn](https://www.linkedin.com/in/sachin-reddy-)
- 
+  | SACHIN REDDY| [GitHub](https://github.com/reddysachin532) | Email | [LinkedIn](https://www.linkedin.com/in/sachin-reddy-) |
+  | NIKHIL NK   | [GitHub](https://github.com/NikhilKankatri) | Email | [LinkedIn](www.linkedin.com/in/nikhil-kankatri) |
+  
+
