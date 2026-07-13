@@ -5,51 +5,42 @@ Note: Use Python version: 3.8.5
 
 ### Features (gestures)
 
+### Features (Gestures)
+
 <details>
 <summary>Cursor Movement</summary>
-
-<!-- Add Cursor Movement Video Here -->
-
 <ul>
   <li>
-    <code>Move Cursor Using Hand Gesture</code><br>
-    Tracks the user's hand using the webcam and moves the mouse cursor according to hand movement.
+    <code>Hand Gesture Cursor Movement</code><br>
+    Detects the user's hand using the webcam and tracks hand landmarks in real time.
   </li>
   <li>
-    The system uses MediaPipe hand landmarks to detect finger position and translate the movement into cursor movement on the computer screen.
+    The movement of the hand and fingers is used to control and move the mouse cursor across the computer screen.
   </li>
   <li>
-    Allows touch-free mouse navigation without using a physical mouse.
+    Allows touch-free cursor navigation without using a physical mouse.
   </li>
 </ul>
-
 </details>
 
 <details>
 <summary>Left Click / Right Click</summary>
-
-<!-- Add Left and Right Click Video Here -->
-
 <ul>
   <li>
     <code>Left Click Gesture</code><br>
-    Performs a mouse left-click operation when the corresponding hand gesture is detected.
+    Performs a left mouse click when the corresponding hand gesture is detected.
   </li>
-
   <li>
     <code>Right Click Gesture</code><br>
-    Performs a mouse right-click operation when the corresponding hand gesture is detected.
+    Performs a right mouse click when the corresponding hand gesture is detected.
   </li>
-
   <li>
-    Hand landmarks are detected using MediaPipe and the recognized gesture is converted into mouse click actions.
+    The system recognizes specific hand and finger gestures and converts them into mouse click operations.
   </li>
-
   <li>
-    Enables users to interact with desktop applications without physically clicking a mouse.
+    Enables users to interact with applications without physically touching the mouse.
   </li>
 </ul>
-
 </details>
 
 ### Voice Assistant ( ***Proton*** ):
