@@ -5,9 +5,9 @@ Note: Use Python version: 3.8.5
 
 ### Features (gestures)
 
-https://github.com/user-attachments/assets/44678527-0f70-4eed-addd-ac382a3be656
+https://github.com/user-attachments/assets/curser move
 
-https://github.com/user-attachments/assets/ed45b5fe-ece9-4f86-b6f3-32359ca7f264
+https://github.com/user-attachments/assets/right/left move
 
 ### Voice Assistant ( ***Proton*** ):
 <details>
