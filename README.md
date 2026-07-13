@@ -5,8 +5,6 @@ Note: Use Python version: 3.8.5
 
 ### Features (gestures)
 
-### Features (Gestures)
-
 <details>
 <summary>Cursor Movement</summary>
 <ul>
