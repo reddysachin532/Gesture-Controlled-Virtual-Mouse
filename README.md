@@ -5,9 +5,52 @@ Note: Use Python version: 3.8.5
 
 ### Features (gestures)
 
-https://github.com/user-attachments/assets/6eb3a55d-4552-4d8d-a22a-56cd1cd62e40
+<details>
+<summary>Cursor Movement</summary>
 
-https://github.com/user-attachments/assets/477b117d-b7c7-4bda-9b14-4696c401e5c6
+<!-- Add Cursor Movement Video Here -->
+
+<ul>
+  <li>
+    <code>Move Cursor Using Hand Gesture</code><br>
+    Tracks the user's hand using the webcam and moves the mouse cursor according to hand movement.
+  </li>
+  <li>
+    The system uses MediaPipe hand landmarks to detect finger position and translate the movement into cursor movement on the computer screen.
+  </li>
+  <li>
+    Allows touch-free mouse navigation without using a physical mouse.
+  </li>
+</ul>
+
+</details>
+
+<details>
+<summary>Left Click / Right Click</summary>
+
+<!-- Add Left and Right Click Video Here -->
+
+<ul>
+  <li>
+    <code>Left Click Gesture</code><br>
+    Performs a mouse left-click operation when the corresponding hand gesture is detected.
+  </li>
+
+  <li>
+    <code>Right Click Gesture</code><br>
+    Performs a mouse right-click operation when the corresponding hand gesture is detected.
+  </li>
+
+  <li>
+    Hand landmarks are detected using MediaPipe and the recognized gesture is converted into mouse click actions.
+  </li>
+
+  <li>
+    Enables users to interact with desktop applications without physically clicking a mouse.
+  </li>
+</ul>
+
+</details>
 
 ### Voice Assistant ( ***Proton*** ):
 <details>
