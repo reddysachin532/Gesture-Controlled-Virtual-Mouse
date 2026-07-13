@@ -5,40 +5,67 @@ Note: Use Python version: 3.8.5
 
 ### Features (gestures)
 
+
+https://github.com/user-attachments/assets/d87c7dff-c9d7-4c8e-a596-81d32c0cd20b
+
+https://github.com/user-attachments/assets/31e7a27f-a4d6-497c-8edb-a3b8710b3d2b
+
+
+### Features (Gestures)
+
 <details>
 <summary>Cursor Movement</summary>
+
+<br>
+
+https://github.com/user-attachments/assets/d87c7dff-c9d7-4c8e-a596-81d32c0cd20b
+
+<br>
+
 <ul>
   <li>
     <code>Hand Gesture Cursor Movement</code><br>
     Detects the user's hand using the webcam and tracks hand landmarks in real time.
   </li>
   <li>
-    The movement of the hand and fingers is used to control and move the mouse cursor across the computer screen.
+    Hand and finger movement is used to control and move the mouse cursor across the computer screen.
   </li>
   <li>
     Allows touch-free cursor navigation without using a physical mouse.
   </li>
 </ul>
+
 </details>
 
 <details>
 <summary>Left Click / Right Click</summary>
+
+<br>
+
+https://github.com/user-attachments/assets/31e7a27f-a4d6-497c-8edb-a3b8710b3d2b
+
+<br>
+
 <ul>
   <li>
     <code>Left Click Gesture</code><br>
     Performs a left mouse click when the corresponding hand gesture is detected.
   </li>
+
   <li>
     <code>Right Click Gesture</code><br>
     Performs a right mouse click when the corresponding hand gesture is detected.
   </li>
+
   <li>
     The system recognizes specific hand and finger gestures and converts them into mouse click operations.
   </li>
+
   <li>
-    Enables users to interact with applications without physically touching the mouse.
+    Enables touch-free interaction with desktop applications.
   </li>
 </ul>
+
 </details>
 
 ### Voice Assistant ( ***Proton*** ):
